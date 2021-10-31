@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Illya @sigizmunde
 - 👀 I’m interested in making things work properly
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently improving in web development
 - 💞️ I'm looking for oportunities
 - 📫 You may write me on Telegram @iliyabinocular
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Illya @sigizmunde
-- 👀 I’m interested in making things work properly
-- 🌱 I’m currently improving in web development
-- 💞️ I'm looking for oportunities
+- 👀 I like making things work properly
+- 🌱 This account is my personal one
+- 💞️ I'm looking for oportunities, so
 - 📫 You may write me on Telegram @iliyabinocular
 
 <!---
